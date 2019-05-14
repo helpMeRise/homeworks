@@ -1,0 +1,66 @@
+body {
+  background: url("../img/bg.jpg") no-repeat center fixed;
+  height: 100%;
+  width: 100%;
+  color: rgb(202, 141, 65);
+  font-size: 20px;
+}
+
+.title {
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+  color: pink;
+}
+
+.italic {
+  font-style: italic;
+  color: lawngreen;
+}
+
+.under {
+  text-decoration: underline;
+  color: navajowhite;
+}
+
+.strike {
+  text-decoration: line-through;
+  color: tomato;
+}
+
+a {
+  text-decoration: none;
+  color: yellowgreen;
+}
+
+h1 {
+  color: orange;
+}
+
+h2 {
+  color: palevioletred;
+}
+
+h3 {
+  color: aquamarine;
+}
+
+h4 {
+  color: cornflowerblue;
+}
+
+h5 {
+  color: gold;
+}
+
+.picture {
+  display: block;
+  height: 250px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid black;
+  border-radius: 10px;
+}
